@@ -717,7 +717,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"HandelGothic BT"
 				"tall"		"80"
 				"tall_lodef"	"80"
 				"weight"	"500"
@@ -729,7 +729,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"HandelGothic BT"
 				"tall"		"24"
 				"tall_lodef"	"80"
 				"weight"	"500"
@@ -739,7 +739,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"TF2"
+				"name"		"HandelGothic BT"
 				"tall"		"32"
 				"tall_hidef"	"120"
 				"weight"	"500"
@@ -749,7 +749,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"TF2"
+				"name"		"HandelGothic BT"
 				"tall"		"44"
 				"weight"	"500"
 				"additive"	"0"
@@ -758,7 +758,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"TF2"
+				"name"		"HandelGothic BT"
 				"tall"		"48"
 				"weight"	"500"
 				"additive"	"0"
@@ -767,7 +767,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"TF2"
+				"name"		"HandelGothic BT"
 				"tall"		"52"
 				"weight"	"500"
 				"additive"	"0"
@@ -779,7 +779,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"HandelGothic BT"
 				"tall"		"44"
 				"tall_lodef"	"52"
 				"weight"	"500"
@@ -791,7 +791,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"HandelGothic BT"
 				"tall"		"36"
 				"tall_hidef"	"48"
 				"weight"	"500"
@@ -803,7 +803,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"HandelGothic BT"
 				"tall"		"36"
 				"tall_hidef"	"48"
 				"weight"	"500"
@@ -815,7 +815,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"HandelGothic BT"
 				"tall"		"30"
 				"weight"	"500"
 				"additive"	"0"
@@ -826,7 +826,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"HandelGothic BT"
 				"tall"		"30"
 				"weight"	"500"
 				"additive"	"0"
@@ -837,7 +837,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"HandelGothic BT"
 				"tall"		"24"
 				"tall_lodef"		"28"
 				"weight"	"500"
@@ -849,7 +849,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"HandelGothic BT"
 				"tall"		"24"
 				"weight"	"500"
 				"additive"	"0"
@@ -860,7 +860,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"HandelGothic BT"
 				"tall"		"24"
 				"weight"	"500"
 				"additive"	"0"
@@ -871,7 +871,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"HandelGothic BT"
 				"tall"		"18"
 				"tall_hidef"	"24"
 				"tall_lodef"	"18"
@@ -884,7 +884,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"HandelGothic BT"
 				"tall"		"18"
 				"weight"	"500"
 				"additive"	"0"
@@ -895,7 +895,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"HandelGothic BT"
 				"tall"		"18"
 				"tall_hidef"	"24"
 				"tall_lodef"	"20"
@@ -908,7 +908,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"HandelGothic BT"
 				"tall"		"14"
 				"tall_lodef"	"16"
 				"weight"	"500"
@@ -920,7 +920,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"HandelGothic BT"
 				"tall"		"55"
 				"weight"	"500"
 				"additive"	"0"
@@ -931,7 +931,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"HandelGothic BT"
 				"tall"		"20"
 				"tall_lodef"	"22"
 				"weight"	"500"
@@ -943,7 +943,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"HandelGothic BT"
 				"tall"		"20"
 				"tall_lodef"	"22"
 				"weight"	"500"
@@ -955,7 +955,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"HandelGothic BT"
 				"tall"		"14"
 				"weight"	"500"
 				"additive"	"0"
@@ -966,7 +966,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"HandelGothic BT"
 				"tall"		"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -977,7 +977,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"HandelGothic BT"
 				"tall"		"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -988,7 +988,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"HandelGothic BT"
 				"tall"		"18"
 				"weight"	"500"
 				"additive"	"0"
@@ -1055,7 +1055,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"HandelGothic BT"
 				"tall"		"18"
 				"tall_hidef"	"24"
 				"tall_lodef"	"18"
@@ -1068,7 +1068,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"HandelGothic BT"
 				"tall"		"16"
 				"tall_hidef"	"22"
 				"tall_lodef"	"22"
@@ -1082,7 +1082,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"HandelGothic BT"
 				"tall"		"9"
 				"weight"	"500"
 				"additive"	"0"
@@ -1094,7 +1094,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"HandelGothic BT"
 				"tall"		"14"
 				"tall_hidef"	"22"
 				"tall_lodef"	"22"
@@ -1354,7 +1354,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"HandelGothic BT"
 				"tall"		"24"
 				"antialias" "1"
 				"weight"	"500"
@@ -1364,7 +1364,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"HandelGothic BT"
 				"tall"		"11"
 				"tall_lodef"	"14"
 				"antialias" "1"
@@ -1375,7 +1375,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"HandelGothic BT"
 				"tall"		"12"
 				"antialias" "1"
 				"weight"	"500"
@@ -1436,7 +1436,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"HandelGothic BT"
 				"tall"		"10"
 				"tall_hidef"	"12"
 				"tall_lodef"	"14"
@@ -1449,7 +1449,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"HandelGothic BT"
 				"tall"		"10"
 				"weight"	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
@@ -1461,7 +1461,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"HandelGothic BT"
 				"tall"		"20"
 				"weight"	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
@@ -1473,7 +1473,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"HandelGothic BT"
 				"tall"		"20"
 				"tall_hidef"	"24"
 				"tall_lodef"	"24"
@@ -1487,7 +1487,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"HandelGothic BT"
 				"tall"		"34"
 				"tall_hidef"	"38"
 				"tall_lodef"	"38"
@@ -1502,7 +1502,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"HandelGothic BT"
 				"tall"		"52"
 				"tall_lodef"		"80"
 				"range" 	"0x0000 0x00FF"
@@ -1512,7 +1512,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"TF2"
+				"name"		"HandelGothic BT"
 				"tall"		"72"
 				"tall_hidef"	"120"
 				"range" 	"0x0000 0x00FF"
@@ -1522,7 +1522,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"TF2"
+				"name"		"HandelGothic BT"
 				"tall"		"100"
 				"range" 	"0x0000 0x00FF"
 				"weight"	"400"
@@ -1531,7 +1531,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"TF2"
+				"name"		"HandelGothic BT"
 				"tall"		"140"
 				"range" 	"0x0000 0x00FF"
 				"weight"	"400"
@@ -1540,7 +1540,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"TF2"
+				"name"		"HandelGothic BT"
 				"tall"		"180"
 				"range" 	"0x0000 0x00FF"
 				"weight"	"400"
@@ -1601,7 +1601,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"HandelGothic BT"
 				"tall"		"12"
 				"weight"	"700"
 				"yres"		"480 599"
@@ -1663,7 +1663,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"HandelGothic BT"
 				"tall"		"14"
 				"tall_lodef"	"18"
 				"range" 		"0x0000 0x00FF"
@@ -1676,7 +1676,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"HandelGothic BT"
 				"tall"		"12"
 				"weight"	"500"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -1715,7 +1715,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"HandelGothic BT"
 				"tall"		"36"
 				"tall_lodef"		"28"
 				"weight"	"500"
@@ -1726,7 +1726,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"HandelGothic BT"
 				"tall"		"30"
 				"tall_lodef"		"22"
 				"weight"	"500"
@@ -1737,7 +1737,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"HandelGothic BT"
 				"tall"		"28"
 				"tall_lodef"	"24"
 				"weight"	"500"
@@ -1748,7 +1748,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"HandelGothic BT"
 				"tall"		"15"
 				"tall_lodef"	"13"
 				"weight"	"500"
@@ -1779,7 +1779,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"HandelGothic BT"
 				"tall"		"22"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1789,7 +1789,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"HandelGothic BT"
 				"tall"		"18"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1832,7 +1832,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"HandelGothic BT"
 				"tall"		"36"
 				"weight"	"500"
 				"additive"	"0"
@@ -1843,7 +1843,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"HandelGothic BT"
 				"tall"		"11"
 				"weight"	"600"
 				"additive"	"0"
@@ -1854,7 +1854,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"HandelGothic BT"
 				"tall"		"18"
 				"weight"	"400"
 				"additive"	"0"
@@ -3949,7 +3949,7 @@ Scheme
 		{
 			"1"	[$WIN32]
 			{
-				"name"		"TF2 Build"
+				"name"		"HandelGothic BT"
 				"tall"		"18"
 				"weight"	"500"
 				"additive"	"0"
