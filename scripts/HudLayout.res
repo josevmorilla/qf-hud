@@ -147,14 +147,14 @@
 		"SmallBoxSize" "32"
 		"MediumBoxWide"	"80"
 		"MediumBoxWide_hidef"	"80"
+        "MediumBoxWide_lodef"	"70"
 		"MediumBoxTall"	"50"
 		"MediumBoxTall_hidef"	"50"
-		"MediumBoxWide_lodef"	"70"
 		"MediumBoxTall_lodef"	"50"
 		"LargeBoxWide" "70"
 		"LargeBoxTall" "40"
 		"BoxGap" "8"
-		"SelectionNumberXPos" "4"
+		"SelectionNumberXPos" "-9"
 		"SelectionNumberYPos" "4"
 		"SelectionGrowTime"	"0.4"
 		"WeaponBGXPos"	"5"
@@ -165,7 +165,7 @@
 		"SelectionAlpha" "128"
 		"EmptyBoxColor" "0 0 0 80"
 		"ErrorYPos"	"30"
-		"RightMargin" "0"
+		"RightMargin" "4"
 	}
 
 //	HudWeaponSelection

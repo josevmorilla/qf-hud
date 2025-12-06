@@ -11,13 +11,13 @@
 		"tall"			"40"
 		"visible"		"0"
 		"enabled"		"1"
-		"image"			"../hud/wpnslctnbox"
+		"image"			    "../hud/wpnslctnbox"
 		"scaleImage"		"1"		
-		"teambg_2"		"../hud/wpnslctnbox"
+		"teambg_2"		    "../hud/wpnslctnbox"
 		"teambg_2_lodef"	"../hud/wpnslctnbox"
-		"teambg_3"		"../hud/wpnslctnbox"
+		"teambg_3"		    "../hud/wpnslctnbox"
 		"teambg_3_lodef"	"../hud/wpnslctnbox"
-		"teambg_4"		"../hud/wpnslctnbox"
+		"teambg_4"		    "../hud/wpnslctnbox"
 		"teambg_4_lodef"	"../hud/wpnslctnbox"
 	}
 }
